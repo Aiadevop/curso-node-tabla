@@ -1,0 +1,4 @@
+/*Quiero ignorar los archivos dentro de*/
+
+node_modules/
+salida/*.txt
